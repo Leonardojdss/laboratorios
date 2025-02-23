@@ -1,7 +1,5 @@
 from dotenv import load_dotenv
 import os
-
-# import namespaces
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.textanalytics import TextAnalyticsClient
 
