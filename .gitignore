@@ -174,4 +174,5 @@ cython_debug/
 test.py
 teste.py
 
-speech/Python/speaking-clock/.env
+#env
+*.env
