@@ -5,9 +5,16 @@ Este repositório é exclusivo para a publicação de laboratórios relacionados
 ## Estrutura do Repositório
 
 - **analyze-text/**: Contém código e dados para análise de texto.
+  - **Python/**: Scripts em Python para análise de texto.
 - **extrair-entidades-custom-entity-recognition/**: Contém código e dados para extração de entidades personalizadas.
+  - **data/**: Conjunto de dados para treinamento e teste.
 - **language-coloquial/**: Contém código relacionado ao processamento de linguagem coloquial.
+- **speech/**: Contém código e dados para reconhecimento de fala.
+- **speech-translation/**: Contém código e dados para tradução de fala.
 - **text-classification/**: Contém código e dados para classificação de texto.
+- **VISION-LAB/**: Contém laboratórios relacionados à visão computacional.
+- **env/**: Ambiente virtual Python com dependências necessárias.
+
 **mais labs serão postados neste repo**
 
 ## Requisitos
