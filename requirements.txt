@@ -8,3 +8,4 @@ pyobjc==11.0
 formrecognizer==3.3.3
 azure-ai-documentintelligence==1.0.1
 numpy==2.0.2
+azure-ai-vision-imageanalysis==1.0.0b3
