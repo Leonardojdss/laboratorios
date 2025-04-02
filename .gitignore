@@ -176,3 +176,5 @@ teste.py
 
 #env
 *.env
+
+.DS_Store
