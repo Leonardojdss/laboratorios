@@ -1,21 +1,32 @@
 # Laboratórios de Serviços de IA do Azure
 
-Este repositório é exclusivo para a publicação de laboratórios relacionados aos serviços de Inteligência Artificial (IA) do Azure. Aqui, você encontrará diversos exemplos e tutoriais que demonstram como utilizar os serviços de IA do Azure para resolver problemas reais.
+Este repositório é dedicado à publicação de laboratórios relacionados aos serviços de Inteligência Artificial (IA) do Azure. Ele contém exemplos práticos e tutoriais que demonstram como utilizar os serviços de IA do Azure para resolver problemas reais em diferentes áreas, como visão computacional, processamento de linguagem natural e análise de texto.
 
 ## Estrutura do Repositório
 
-- **analyze-text/**: Contém código e dados para análise de texto.
-  - **Python/**: Scripts em Python para análise de texto.
-- **extrair-entidades-custom-entity-recognition/**: Contém código e dados para extração de entidades personalizadas.
-  - **data/**: Conjunto de dados para treinamento e teste.
-- **language-coloquial/**: Contém código relacionado ao processamento de linguagem coloquial.
-- **speech/**: Contém código e dados para reconhecimento de fala.
-- **speech-translation/**: Contém código e dados para tradução de fala.
-- **text-classification/**: Contém código e dados para classificação de texto.
-- **VISION-LAB/**: Contém laboratórios relacionados à visão computacional.
-- **env/**: Ambiente virtual Python com dependências necessárias.
+- **DOC-INTELIGENCE/**: Projetos relacionados à inteligência de documentos.
+  - **custom-document-intelligence/**: Exemplos de uso de modelos personalizados para análise de documentos.
+  - **prebuild-model-invoice/**: Demonstração de modelos pré-construídos para extração de informações de faturas.
+  - **prebuild-model-read/**: Uso de modelos pré-construídos para leitura e extração de texto.
 
-**mais labs serão postados neste repo**
+- **IA-SEARCH/**: Projetos focados em soluções de busca inteligente utilizando IA.
+
+- **IA-VISION/**: Laboratórios relacionados à visão computacional.
+  - **analyze-images/**: Exemplos de análise de imagens utilizando serviços do Azure.
+  - **custom-vision/**: Projetos que utilizam o Custom Vision para criar modelos personalizados de classificação de imagens.
+  - **Image-classification/**: Demonstrações de classificação de imagens com modelos pré-treinados.
+
+- **NLP-LAB/**: Projetos de Processamento de Linguagem Natural (NLP).
+  - **analyze-text/**: Scripts e dados para análise de texto.
+  - **extrair-entidades-custom-entity-recognition/**: Extração de entidades personalizadas utilizando serviços de reconhecimento de entidades.
+  - **language-coloquial/**: Processamento de linguagem coloquial para análise de texto informal.
+  - **speech/**: Reconhecimento de fala utilizando serviços do Azure.
+  - **speech-translation/**: Tradução de fala em tempo real.
+  - **text-classification/**: Classificação de texto com modelos personalizados e pré-treinados.
+
+- **env/**: Ambiente virtual Python configurado com as dependências necessárias para executar os laboratórios.
+
+**Mais laboratórios serão adicionados a este repositório futuramente.**
 
 ## Requisitos
 
