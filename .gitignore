@@ -178,3 +178,5 @@ teste.py
 *.env
 
 .DS_Store
+
+*.sh
